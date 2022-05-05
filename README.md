@@ -8,6 +8,12 @@ a. add <br>
 b. subtract <br>
 c. multiply <br>
 d. divide <br>
+2. Create a new function operate that takes an operator and 2 numbers and then calls one of the above functions on the numbers.
+3. Create a basic HTML calculator with buttons for each digit, each of the above functions and an “Equals” key.
+4. Add a “clear” button.
+5. Create the functions that populate the display when you click the number buttons… you should be storing the ‘display value’ in a variable somewhere for use in the next step.
+6. Create the functions that populate the display when you click the number buttons… you should be storing the ‘display value’ in a variable somewhere for use in the next step.
+7. Add a “backspace” button, so the user can undo if they click the wrong number.
 ### Built With
 - HTML <br>
 - CSS (Flexbox) <br>
