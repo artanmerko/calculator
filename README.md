@@ -15,6 +15,7 @@ d. divide <br>
 6. Create the functions that populate the display when you click the number buttons… you should be storing the ‘display value’ in a variable somewhere for use in the next step.
 7. Add a “backspace” button, so the user can undo if they click the wrong number.
 ### Built With
+
 - HTML <br>
 - CSS (Flexbox) <br>
 - JavaScript<br>
